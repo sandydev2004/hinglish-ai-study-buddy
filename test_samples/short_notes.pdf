@@ -1,0 +1,73 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+3 0 obj
+<<
+  /Type /Page
+  /Parent 2 0 R
+  /MediaBox [0 0 612 792]
+  /Resources <<
+    /Font <<
+      /F1 <<
+        /Type /Font
+        /Subtype /Type1
+        /BaseFont /Helvetica
+      >>
+    >>
+  >>
+  /Contents 4 0 R
+>>
+endobj
+4 0 obj
+<< /Length 1033 >>
+stream
+BT
+/F1 14 Tf
+50 720 Td
+(Operating Systems: Deadlock and Process Synchronization) Tj
+0 -25 Td
+/F1 11 Tf
+(1. What is a Deadlock?) Tj
+0 -18 Td
+(A deadlock is a situation where processes are blocked waiting for each others resources.) Tj
+0 -25 Td
+(2. Necessary Conditions for Deadlock - Coffman Conditions:) Tj
+0 -18 Td
+(- Mutual Exclusion: At least one resource must be non-shareable.) Tj
+0 -18 Td
+(- Hold and Wait: A process holds resources while waiting for additional ones.) Tj
+0 -18 Td
+(- No Preemption: Resources cannot be preempted forcibly.) Tj
+0 -18 Td
+(- Circular Wait: A closed loop of processes waiting for each other.) Tj
+0 -25 Td
+(3. Deadlock Handling Strategies:) Tj
+0 -18 Td
+(- Prevention: Invalidate one of Coffman conditions.) Tj
+0 -18 Td
+(- Avoidance: Use Bankers Algorithm to ensure safe state.) Tj
+0 -18 Td
+(- Detection and Recovery: Resource Allocation Graph and termination.) Tj
+0 -25 Td
+(4. Critical Section and Mutex:) Tj
+0 -18 Td
+(Critical section is shared memory access. Mutex ensures mutual exclusion.) Tj
+ET
+endstream
+endobj
+xref
+0 5
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000346 00000 n 
+trailer
+<< /Size 5 /Root 1 0 R >>
+startxref
+1431
+%%EOF
