@@ -1,3 +1,6 @@
+# hinglish-ai-study-buddy
+summarizer
+
 # 📚 Hinglish AI Study Buddy (Week 1)
 
 An AI-powered study companion built for Indian college students. Upload your lecture notes or textbook chapter PDFs, and get exam-ready summaries written in conversational Hinglish with standard English technical terms.
